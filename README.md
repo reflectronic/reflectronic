@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm John Tur (He/Him), a 16 year old student primarily interested in programming languages, compilers, and systems programming.
+I'm John Tur (He/They), a 16 year old student primarily interested in programming languages, compilers, and systems programming.
 
 - <img valign=bottom src="https://github.com/dotnet-foundation/swag/blob/master/logo/dotnetfoundation_v4.png?raw=true" alt="Dotnet Foundation Logo" width="20" style=""> Proudly a .NET Foundation member; interested in advancing and experimenting with .NET and open source
 - 🔨 .NET ecosystem is my prime choice, but enjoy other languages like Modern C++, Rust, Swift, Dart, MLs
